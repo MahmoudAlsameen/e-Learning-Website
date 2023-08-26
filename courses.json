@@ -1,0 +1,164 @@
+[
+  {
+    "PlaylistID": 1,
+    "PlaylistName": "complete HTML tutorial",
+    "price": 40,
+    "instructor": "Mohab Ashraf","instructorPic":"/images/mohab.png","date":"2022-07-28",
+    "link": "playlist1.html","addCartClass":"addCartClass","description":"Learn HTML in this comprehensive course. Master the fundamental markup language for building web pages and web applications. Discover the syntax, tags, and attributes to structure content, create links, and embed multimedia. Gain essential skills to design and develop responsive websites for various devices. No prior coding experience required.",
+    "Videos": {
+      "first": {
+        "id": 1,
+        "title": "html/css video 1",
+        "category": "HTML/CSS",
+
+        "description": "",
+        "src": "/images/vid-1.mp4",
+        "thumb_src": "/images/thumb-1.png"
+      },
+      "second": {
+        "id": 2,
+        "title": "html/css video 1",
+        "category": "HTML/CSS",
+
+        "description": "",
+        "src": "/images/vid-1.mp4",
+        "thumb_src": "/images/thumb-1.png"
+      }
+    }
+  },
+  {
+    "PlaylistID": 2,
+    "PlaylistName": "complete CSS tutorial",
+    "price": 100,
+    "instructor": "Mohamed Yousry","instructorPic":"/images/yousry.jpg","date":"2023-01-28","link": "playlist2.html","addCartClass":"addCartClass","description":"Learn the fundamentals of CSS with our comprehensive course. Master selectors, layout, typography, and responsive design. Create visually appealing websites with CSS animations and transitions. Gain the skills to style web pages effectively and make them stand out. Start your journey into the world of front-end web development today!",
+    "Videos": {
+      "first": {
+        "id": 3,
+        "title": "html/css video 1",
+        "category": "HTML/CSS",
+
+        "description": "",
+        "src": "/images/vid-1.mp4",
+        "thumb_src": "/images/thumb-2.png"
+      },
+      "second": {
+        "id": 4,
+        "title": "html/css video 1",
+        "category": "HTML/CSS",
+
+        "description": "",
+        "src": "/images/vid-1.mp4",
+        "thumb_src": "/images/thumb-2.png"
+      }
+    }
+  },
+
+  {
+    "PlaylistID": 3,
+    "PlaylistName": "complete JavaScript tutorial",
+    "price": 70,
+    "instructor": "Mahmoud Alsameen","instructorPic":"/images/MahmoudAlsameen.png","date":"2023-02-28","link": "playlist3.html","addCartClass":"addCartClass","description":"Learn the fundamentals of JavaScript with our comprehensive course. Master essential concepts like variables, functions, conditionals, loops, and arrays. Explore DOM manipulation, event handling, and asynchronous programming with Promises. Build interactive web applications and gain a solid foundation for front-end and back-end development. Get started today!",
+    "Videos": {
+      "first": {
+        "id": 15,
+        "title": "html/css video 1",
+        "category": "HTML/CSS",
+
+        "description": "",
+        "src": "/images/vid-1.mp4",
+        "thumb_src": "/images/thumb-3.png"
+      },
+      "second": {
+        "id": 6,
+        "title": "html/css video 1",
+        "category": "HTML/CSS",
+
+        "description": "",
+        "src": "/images/vid-1.mp4",
+        "thumb_src": "/images/thumb-3.png"
+      }
+    }
+  },
+
+  {
+    "PlaylistID":4 ,
+    "PlaylistName": "complete React tutorial",
+    "price": "free",
+    "instructor": "Youtube Instructor","instructorPic":"/images/pic-4.jpg","date":"2023-02-28","link": "playlist4.html","addCartClass":"addCartClass","description":"Learn the fundamentals of React. Master essential concepts like variables, functions, conditionals, loops, and arrays. Explore DOM manipulation, event handling, and asynchronous programming with Promises. Build interactive web applications and gain a solid foundation for front-end and back-end development. Get started today!",
+    "Videos": {
+      "first": {
+        "id": 15,
+        "title": "html/css video 1",
+        "category": "HTML/CSS",
+
+        "description": "",
+        "src": "/images/vid-1.mp4",
+        "thumb_src": "/images/thumb-9.png"
+      },
+      "second": {
+        "id": 6,
+        "title": "html/css video 1",
+        "category": "HTML/CSS",
+
+        "description": "",
+        "src": "/images/vid-1.mp4",
+        "thumb_src": "/images/thumb-3.png"
+      }
+    }
+  },
+
+  {
+    "PlaylistID": 5,
+    "PlaylistName": "complete Angular tutorial",
+    "price": "free",
+    "instructor": "Youtube Instructor","instructorPic":"/images/pic-4.jpg","date":"2023-02-28","link": "playlist5.html","addCartClass":"addCartClass","description":"Learn the fundamentals of Angular. Master essential concepts like variables, functions, conditionals, loops, and arrays. Explore DOM manipulation, event handling, and asynchronous programming with Promises. Build interactive web applications and gain a solid foundation for front-end and back-end development. Get started today!",
+    "Videos": {
+      "first": {
+        "id": 15,
+        "title": "html/css video 1",
+        "category": "HTML/CSS",
+
+        "description": "",
+        "src": "/images/vid-1.mp4",
+        "thumb_src": "/images/thumb-10.png"
+      },
+      "second": {
+        "id": 6,
+        "title": "html/css video 1",
+        "category": "HTML/CSS",
+
+        "description": "",
+        "src": "/images/vid-1.mp4",
+        "thumb_src": "/images/thumb-3.png"
+      }
+    }
+  },
+
+  {
+    "PlaylistID": 6,
+    "PlaylistName": "complete NodeJS tutorial",
+    "price": "free",
+    "instructor": "Youtube Instructor","instructorPic":"/images/pic-4.jpg","date":"2023-02-28","link": "playlist6.html","addCartClass":"addCartClass","description":"Learn the fundamentals of NodeJS. Master essential concepts like variables, functions, conditionals, loops, and arrays. Explore DOM manipulation, event handling, and asynchronous programming with Promises. Build interactive web applications and gain a solid foundation for front-end and back-end development. Get started today!",
+    "Videos": {
+      "first": {
+        "id": 15,
+        "title": "html/css video 1",
+        "category": "HTML/CSS",
+
+        "description": "",
+        "src": "/images/vid-1.mp4",
+        "thumb_src": "/images/thumb-11.png"
+      },
+      "second": {
+        "id": 6,
+        "title": "html/css video 1",
+        "category": "HTML/CSS",
+
+        "description": "",
+        "src": "/images/vid-1.mp4",
+        "thumb_src": "/images/thumb-3.png"
+      }
+    }
+  }
+]
+
